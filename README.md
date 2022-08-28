@@ -1,2 +1,2 @@
 # tiktok_review
-TIKTOK REVIEW FROM PUBLIC SOURCE
+cuma sampe data viz, might continue later
